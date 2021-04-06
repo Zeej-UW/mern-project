@@ -1,0 +1,24 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "side project with Luka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "personal",
+    "project",
+    "fun",
+    "site",
+    "node",
+    "MERN"
+  ],
+  "author": "Charles Jackson and Luka Gajic",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.5",
+    "react": "^17.0.2"
+  }
+}
